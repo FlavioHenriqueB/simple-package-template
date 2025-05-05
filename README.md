@@ -1,27 +1,26 @@
-# package_name
+# Bank_App_v3
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	- To use a simple bank app
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Bank_App_v3
 
 ```bash
-pip install package_name
+pip install Bank_App_v3
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from Bank_App_v3 import BankApp
+BankApp.main()
 ```
 
 ## Author
-My_name
+Flavio_Brito
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
